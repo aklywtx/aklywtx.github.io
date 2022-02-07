@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on cuzn click</title>
+    <link>https://aklywtx.github.io/tags/</link>
+    <description>Recent content in Tags on cuzn click</description>
+    <image>
+      <url>https://aklywtx.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://aklywtx.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 07 Feb 2022 14:25:55 +0800</lastBuildDate><atom:link href="https://aklywtx.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>表达练习</title>
+      <link>https://aklywtx.github.io/tags/%E8%A1%A8%E8%BE%BE%E7%BB%83%E4%B9%A0/</link>
+      <pubDate>Mon, 07 Feb 2022 14:25:55 +0800</pubDate>
+      
+      <guid>https://aklywtx.github.io/tags/%E8%A1%A8%E8%BE%BE%E7%BB%83%E4%B9%A0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>摄影</title>
+      <link>https://aklywtx.github.io/tags/%E6%91%84%E5%BD%B1/</link>
+      <pubDate>Sat, 20 Nov 2021 02:11:00 +0800</pubDate>
+      
+      <guid>https://aklywtx.github.io/tags/%E6%91%84%E5%BD%B1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>欧洲旅游</title>
+      <link>https://aklywtx.github.io/tags/%E6%AC%A7%E6%B4%B2%E6%97%85%E6%B8%B8/</link>
+      <pubDate>Sat, 20 Nov 2021 02:11:00 +0800</pubDate>
+      
+      <guid>https://aklywtx.github.io/tags/%E6%AC%A7%E6%B4%B2%E6%97%85%E6%B8%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>胶片</title>
+      <link>https://aklywtx.github.io/tags/%E8%83%B6%E7%89%87/</link>
+      <pubDate>Sat, 20 Nov 2021 02:11:00 +0800</pubDate>
+      
+      <guid>https://aklywtx.github.io/tags/%E8%83%B6%E7%89%87/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
