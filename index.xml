@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>aklywtx</title>
+    <link>https://aklywtx.github.io/</link>
+    <description>Recent content on aklywtx</description>
+    <generator>Hugo -- 0.143.0</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://aklywtx.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multimodel: Speech-Text Representation Learning</title>
+      <link>https://aklywtx.github.io/posts/speech-text-representation-learning/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://aklywtx.github.io/posts/speech-text-representation-learning/</guid>
+      <description>&lt;h2 id=&#34;about-speech-processing&#34;&gt;About Speech Processing&lt;/h2&gt;
+&lt;h3 id=&#34;tasks&#34;&gt;Tasks&lt;/h3&gt;
+&lt;p&gt;There are many speech processing tasks, so the key to a good speech+LLM is to generalize well!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;automatic speech recognition (ASR)&lt;/li&gt;
+&lt;li&gt;speech question answering (SQA)&lt;/li&gt;
+&lt;li&gt;speech-to-text translation (ST)&lt;/li&gt;
+&lt;li&gt;text-to-speech(TTS)&lt;/li&gt;
+&lt;li&gt;emotion recognition (ER)&lt;/li&gt;
+&lt;li&gt;speaker verification (SV)&lt;/li&gt;
+&lt;li&gt;automatic speech translation(AST): translating the audio to obtain the translated transcript.&lt;/li&gt;
+&lt;li&gt;S2ST (speech-to-speech translation): translating the audio to obtain the translated audio.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;datasets&#34;&gt;Datasets&lt;/h3&gt;
+&lt;p&gt;LibriSpeech: English reading speech&lt;/p&gt;
+&lt;p&gt;AMI: multi-talker meeting recordings&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NLP_Notes: Dependency Parser</title>
+      <link>https://aklywtx.github.io/posts/nlp_notes-dependency-parser/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://aklywtx.github.io/posts/nlp_notes-dependency-parser/</guid>
+      <description>&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;dependency grammars:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The syntactic structure of a sentence if described solely in terms of directed binary grammatical relations between the words.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Why dependency grammars?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;They can deal with languages that are morphologically rich and have relatively free word order.&lt;/li&gt;
+&lt;li&gt;The head-dependent relations provide an approximation to the semantic relationship between predicates and their arguments that makes them directly useful for many applications such as coreference resolution, question answering and information extraction.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dependency Structure:&lt;/strong&gt; a directed graph G = (V, A)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;V: words&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>NLP_Notes: Word2Vec</title>
+      <link>https://aklywtx.github.io/posts/nlp_notes-word2vec/</link>
+      <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://aklywtx.github.io/posts/nlp_notes-word2vec/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note on Terminology:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The terms &amp;ldquo;word vectors&amp;rdquo; and &amp;ldquo;word embeddings&amp;rdquo; are often used interchangeably.&lt;/p&gt;
+&lt;p&gt;The term &amp;ldquo;embedding&amp;rdquo; refers to the fact that we are encoding aspects of a word&amp;rsquo;s meaning in a lower dimensional space.&lt;/p&gt;
+&lt;h2 id=&#34;main-problem&#34;&gt;Main Problem:&lt;/h2&gt;
+&lt;p&gt;How can we represent the meaning of words?&lt;/p&gt;
+&lt;h2 id=&#34;main-solution&#34;&gt;Main Solution:&lt;/h2&gt;
+&lt;p&gt;Similar words will be used in similar contexts.&lt;/p&gt;
+&lt;p&gt;We can treat words as a vector in a multidimensional semantic space that is derived from  the distribution of word neighbors.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

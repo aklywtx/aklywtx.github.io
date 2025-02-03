@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Multimodal on aklywtx</title>
+    <link>https://aklywtx.github.io/tags/multimodal/</link>
+    <description>Recent content in Multimodal on aklywtx</description>
+    <generator>Hugo -- 0.143.0</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://aklywtx.github.io/tags/multimodal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Multimodel: Speech-Text Representation Learning</title>
+      <link>https://aklywtx.github.io/posts/speech-text-representation-learning/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://aklywtx.github.io/posts/speech-text-representation-learning/</guid>
+      <description>&lt;h2 id=&#34;about-speech-processing&#34;&gt;About Speech Processing&lt;/h2&gt;
+&lt;h3 id=&#34;tasks&#34;&gt;Tasks&lt;/h3&gt;
+&lt;p&gt;There are many speech processing tasks, so the key to a good speech+LLM is to generalize well!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;automatic speech recognition (ASR)&lt;/li&gt;
+&lt;li&gt;speech question answering (SQA)&lt;/li&gt;
+&lt;li&gt;speech-to-text translation (ST)&lt;/li&gt;
+&lt;li&gt;text-to-speech(TTS)&lt;/li&gt;
+&lt;li&gt;emotion recognition (ER)&lt;/li&gt;
+&lt;li&gt;speaker verification (SV)&lt;/li&gt;
+&lt;li&gt;automatic speech translation(AST): translating the audio to obtain the translated transcript.&lt;/li&gt;
+&lt;li&gt;S2ST (speech-to-speech translation): translating the audio to obtain the translated audio.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;datasets&#34;&gt;Datasets&lt;/h3&gt;
+&lt;p&gt;LibriSpeech: English reading speech&lt;/p&gt;
+&lt;p&gt;AMI: multi-talker meeting recordings&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
