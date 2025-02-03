@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Xin's blog</title><link>https://aklywtx.github.io/posts/</link><description>Recent content in Posts on Xin's blog</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 11 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://aklywtx.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>NLP_Notes: Dependency Parser</title><link>https://aklywtx.github.io/posts/nlp_notes-dependency-parser/</link><pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate><guid>https://aklywtx.github.io/posts/nlp_notes-dependency-parser/</guid><description>&lt;h2 id="background">Background &lt;a href="#background" class="anchor">🔗&lt;/a>&lt;/h2>&lt;ul>
+&lt;li>&lt;strong>dependency grammars:&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;p>The syntactic structure of a sentence if described solely in terms of directed binary grammatical relations between the words.&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Why dependency grammars?&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;ol>
+&lt;li>They can deal with languages that are morphologically rich and have relatively free word order.&lt;/li>
+&lt;li>The head-dependent relations provide an approximation to the semantic relationship between predicates and their arguments that makes them directly useful for many applications such as coreference resolution, question answering and information extraction.&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>&lt;strong>Dependency Structure:&lt;/strong> a directed graph G = (V, A)&lt;/li>
+&lt;/ul>
+&lt;p>V: words&lt;/p></description></item><item><title>NLP_Notes: Word2Vec</title><link>https://aklywtx.github.io/posts/nlp_notes-word2vec/</link><pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate><guid>https://aklywtx.github.io/posts/nlp_notes-word2vec/</guid><description>&lt;p>&lt;strong>Note on Terminology:&lt;/strong>&lt;/p>
+&lt;p>The terms &amp;ldquo;word vectors&amp;rdquo; and &amp;ldquo;word embeddings&amp;rdquo; are often used interchangeably.&lt;/p>
+&lt;p>The term &amp;ldquo;embedding&amp;rdquo; refers to the fact that we are encoding aspects of a word&amp;rsquo;s meaning in a lower dimensional space.&lt;/p>
+&lt;h2 id="main-problem">Main Problem: &lt;a href="#main-problem" class="anchor">🔗&lt;/a>&lt;/h2>&lt;p>How can we represent the meaning of words?&lt;/p>
+&lt;h2 id="main-solution">Main Solution: &lt;a href="#main-solution" class="anchor">🔗&lt;/a>&lt;/h2>&lt;p>Similar words will be used in similar contexts.&lt;/p>
+&lt;p>We can treat words as a vector in a multidimensional semantic space that is derived from the distribution of word neighbors.&lt;/p></description></item><item><title>11月书影音</title><link>https://aklywtx.github.io/posts/11%E6%9C%88%E4%B9%A6%E5%BD%B1%E9%9F%B3/</link><pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate><guid>https://aklywtx.github.io/posts/11%E6%9C%88%E4%B9%A6%E5%BD%B1%E9%9F%B3/</guid><description>&lt;p>《也许你想找个人聊聊》&lt;/p>
+&lt;p>心理咨询部分当然写的既真实又因为相互勾连而引人入胜，但还有一个角度让我印象很深，就是作者对自己职业的选择。书大概有不到百分之十的内容是作者在描述自己的职业道路，&lt;/p></description></item></channel></rss>
